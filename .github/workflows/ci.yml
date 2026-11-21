@@ -1,4 +1,4 @@
-#Goal:Build the image for devboard frontend and push to docker hub
+#Goal:Build the image for devboard frontend and push to docker hub run
 name: CI
 
 on:
